@@ -24,8 +24,8 @@ module.exports = {
     bucketName: ''// 存储空间名
   },
   SMSClient:{ //阿里云通信基础能力业务短信发送 德威商城
-    accessKeyId: '',
-    secretAccessKey: '',
+    accessKeyId: 'accessKeyId',
+    secretAccessKey: 'secretAccessKey',
     SignatureName: '',
     TemplateDomesticCode: '',//国内短信code
     TemplateAbroadCode: '',//国际短信code
