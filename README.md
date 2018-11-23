@@ -113,11 +113,7 @@ npm start
 
 > 哈哈哈 如果帮到了你 那真的是太好了
 
-![enter image description here](http://resource.bbgshop.com/github/mm_facetoface_collect_qrcode_1531550221909.png)
 
-![enter image description here](http://resource.bbgshop.com/github/1531550384970.jpg)
-
-**谢谢你们的支持，有问题请添加微信 m13101221 或 添加qq群 823666423，刚创的群，欢迎捧场**
 
 > 谢谢你们啦
 
